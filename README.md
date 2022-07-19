@@ -1,2 +1,2 @@
 # molecule-cloud
-Self hosted cloud service which film &amp; music streaming service and home monitoring manager
+Self-hosted a cloud service which streamed film & music alongside home-monitoring manager which does not suck
