@@ -9,12 +9,17 @@ db.sqlite3
 media
 
 # Visual Studio Code # 
-.vscode/* 
+.vscode/*
+.vscode/
 !.vscode/settings.json 
 !.vscode/tasks.json 
 !.vscode/launch.json 
 !.vscode/extensions.json 
 .history
+
+# Pycharm
+.idea
+
 
 # celery 
 celerybeat-schedule.* 
